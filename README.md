@@ -1,8 +1,12 @@
 # 8 Bit Parallel Prefix Adder
 
+- Authors: [Aditya NG](http://github.com/AdityaNG)
+
+# Output
+
 <img src="http://github.com/AdityaNG/Parallel-Prefix-Adder/blob/master/img/output.png?raw=true" width="600">
 
-- Authors: [Aditya NG](http://github.com/AdityaNG)
+Performing Operation o = i0 + i1
 
 ## Working
 
