@@ -1,7 +1,6 @@
 # 8 Bit Parallel Prefix Adder
 
-![demo](https://github.com/AdityaNG/Parallel-Prefix-Adder/blob/master/img/prefixAdder.png?raw=true)
-
+<img src="http://github.com/AdityaNG/Parallel-Prefix-Adder/blob/master/img/prefixAdder.png?raw=true" width="400">
 
 - Authors: [Aditya NG](http://github.com/AdityaNG)
 
@@ -9,13 +8,11 @@
 
 Define the operation
 
-![operation](https://github.com/AdityaNG/Parallel-Prefix-Adder/blob/master/img/operation.png?raw=true | width=100)
-<img src="https://github.com/AdityaNG/Parallel-Prefix-Adder/blob/master/img/operation.png?raw=true" width="100">
+<img src="https://github.com/AdityaNG/Parallel-Prefix-Adder/blob/master/img/operation.png?raw=true" width="400">
 
 Consider the above operation implemented as the following module
 
-![module](https://github.com/AdityaNG/Parallel-Prefix-Adder/blob/master/img/module.png?raw=true)
-
+<img src="http://github.com/AdityaNG/Parallel-Prefix-Adder/blob/master/img/module.png?raw=true" width="400">
 
 For an 8 Bit Parallel Prefix Adder, consider 12 such modules such that :
 1. 4 Modules L1a, L1b, L1c, L1d on layer 1 acting on the pairs (0,1), (2,3), (4,5), (6,7)
