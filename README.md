@@ -9,7 +9,8 @@
 
 Define the operation
 
-![operation](https://github.com/AdityaNG/Parallel-Prefix-Adder/blob/master/img/operation.png?raw=true|width=100)
+![operation](https://github.com/AdityaNG/Parallel-Prefix-Adder/blob/master/img/operation.png?raw=true | width=100)
+<img src="https://github.com/AdityaNG/Parallel-Prefix-Adder/blob/master/img/operation.png?raw=true" width="100">
 
 Consider the above operation implemented as the following module
 
