@@ -1,10 +1,10 @@
 # 8 Bit Parallel Prefix Adder
 
-<img src="http://github.com/AdityaNG/Parallel-Prefix-Adder/blob/master/img/prefixAdder.png?raw=true" width="400">
+<img src="http://github.com/AdityaNG/Parallel-Prefix-Adder/blob/master/img/output.png?raw=true" width="600">
 
 - Authors: [Aditya NG](http://github.com/AdityaNG)
 
-## Stereo Calibration
+## Working
 
 Define the operation
 
@@ -19,6 +19,11 @@ For an 8 Bit Parallel Prefix Adder, consider 12 such modules such that :
 2. 4 Modules L2a, L2b, L2c, L2d on layer 2 acting on the pairs (L1a,2), (L1a,L1b), (L1c,6), (L1c,L1d)
 3. 4 Modules L3a, L3b, L3c, L3d on layer 3 acting on the pairs (L2b,4), (L2b,L1c), (L2b,L2c), (L2b,L2d)
 4. Outputs of all lines are xor-ed with the two corresponding input bits
+
+Wiring diagram shown below
+
+<img src="http://github.com/AdityaNG/Parallel-Prefix-Adder/blob/master/img/prefixAdder.png?raw=true" width="400">
+
 
 # Performance
 
