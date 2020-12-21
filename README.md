@@ -9,7 +9,7 @@
 
 Define the operation
 
-![operation](https://github.com/AdityaNG/Parallel-Prefix-Adder/blob/master/img/operation.png?raw=true)
+![operation](https://github.com/AdityaNG/Parallel-Prefix-Adder/blob/master/img/operation.png?raw=true | width=100)
 
 Consider the above operation implemented as the following module
 
@@ -29,7 +29,11 @@ For an 8 Bit Parallel Prefix Adder, consider 12 such modules such that :
 | Ripple Carry Adder	| 2(n-1)a		| (n-1)t	|
 | Parallel Prefix Adder	| (n/2 log(n) + n-1)a	| (log(n) + 1)t	|
 
-Log to the base 2
+1. log to the base 2
+2. a is area of one gate*
+3. t is time of one gate*
+
+* All gates assumed to have identical areas and path delays
 
 ## Running
 
