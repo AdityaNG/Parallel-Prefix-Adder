@@ -53,6 +53,16 @@ $ git clone https://github.com/AdityaNG/Parallel-Prefix-Adder.git
 Run the testbench:
 
 ```bash
+$ vivp -e
+```
+Install vivp
+```bash
+$ python3 -m pip install vivp
+```
+
+Or
+
+```bash
 $ iverilog helperModules.v testBench.v prefixAdder.v  
 $ vvp a.out
 $ gtkwave prefixAdder.vcd
