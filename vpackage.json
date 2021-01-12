@@ -1,0 +1,1 @@
+{"packageDetails": {"packageName": "Parallel Prefix Adder", "packageAuthors": ["adityang5@gmail.com"]}, "packageURL": "https://github.com/AdityaNG/Parallel-Prefix-Adder/", "fileList": ["helperModules.v", "prefixAdder.v"], "testBench": ["testBench.v"], "dependencyList": []}
